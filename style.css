@@ -1,0 +1,9 @@
+/* style.css */
+ul[data-twe-navbar-nav-ref] {
+    margin-left: auto; 
+}
+
+.skills-title {
+    text-align: center;  
+    margin: 0 auto;     
+  }
